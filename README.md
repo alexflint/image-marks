@@ -1,7 +1,7 @@
-image-marks
+Image Correspondences
 ===========
 
-A simple graphical to enter point-to-point correspondences between two images.
+A simple graphical tool to specify manual point-to-point correspondences between two images.
 
     python correpsondence_tool.py IMAGE1 IMAGE2 OUTPUT
 
@@ -12,6 +12,6 @@ Key | Binding
 `s` | Save correpsondences to output file
 `q` | Save correspondences to output file and exit
 `c` | Clear all correspondences
-`h` | Show/hide estimated homography
+`h` | Show/hide fitted homography (requires at least four points)
 
 [screenshot]: https://raw.github.com/alexflint/image-marks/master/docs/screenshot-small.jpg
