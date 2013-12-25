@@ -15,3 +15,7 @@ Key | Binding
 `h` | Show/hide fitted homography (requires at least four points)
 
 [screenshot]: https://raw.github.com/alexflint/image-marks/master/docs/screenshot-small.jpg
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexflint/image-marks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
